@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
-author: "宋崟川"
 lang: zh-CN
+author: "宋崟川"
+title: "IPv6 中文资料和培训"
+description: "IPv6 规划、配置、安全加固、迁移方案的信息平台，为信息化部门负责人、网络工程师和网络爱好者提供技术和决策支持。"
 google_analytics: "UA-119888549-1"
