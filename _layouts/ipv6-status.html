@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<small>{{ page.date | date: "%Y-%m-%d" }}</small>
+<h1>{{ page.title }}</h1>
+
+<h2>检测指标</h2>
+
+<ol>
+<li>DNS——该域名的权威 DNS 服务器是否有 IPv6 地址且能解析出该域名的 SOA 记录</li>
+<li>根域 http 服务——该域名本身是否存在 DNS 的 AAAA 记录，是否可以访问所得到 IPv6 地址上 80 端口的 HTTP 服务，总时间不超过 10 秒，两次跳转内能打开网页则合格，。</li>
+<li>类似上一条，主机名为 www</li>
+<li>接收外界 Email 服务器是否在 DNS 里有 AAAA 记录</li>
+</ol>
+<p>本站<strong>永远不会降低</strong>检测标准，只可能提高标准。</p>
+<h3>内容反馈</h3>
+<p>本页面内容系程序自动生成，发布前人工抽检核对，内容使用 Git 存档。过时和错误的结果下次运行会纠正。</p>
+<p>本站建议请发我的邮箱：yinchuan@ipv6-cn.com</p>
+<p>其他咨询请发邮件至：info@ipv6-cn.com</p>
+</p>
+<hr/>
+
+{{content}}
+
+<p class="view">作者 {{ page.author | default: site.author }}</p>
