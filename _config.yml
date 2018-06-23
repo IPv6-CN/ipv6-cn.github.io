@@ -5,3 +5,6 @@ google_analytics: "UA-119888549-1"
 lang: zh-CN
 theme: jekyll-theme-minimal
 title: "IPv6 中文资料和培训"
+
+plugins:
+  - jekyll-sitemap
