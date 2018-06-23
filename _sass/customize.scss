@@ -1,0 +1,13 @@
+.wrapper {
+  width:960px;
+}
+
+section {
+  width:620px;
+  > ul, > ol {
+    padding-left: 2rem;
+    ul, ol {
+      padding-left: 1rem;
+    }
+  }
+}
