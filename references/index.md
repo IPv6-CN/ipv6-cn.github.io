@@ -1,6 +1,7 @@
 ---
-lcategories: {rfc: "IETF RFC", book: "书籍", ppt: "演示文稿", paper: "论文"}
+lcategories: {rfc: "IETF RFC", book: "书籍", ppt: "演示文稿", paper: "论文", other-ref: "其他资料" }
 ---
+# IPv6 参考资料
 
 {% for cat in page.lcategories %}
 
