@@ -1,13 +1,23 @@
-.wrapper {
-  width:960px;
+@media print, screen and (min-width: 961px) {
+  .wrapper {
+    width:960px;
+  }
+
+  section {
+    width:620px;
+    > ul, > ol {
+      padding-left: 2rem;
+      ul, ol {
+        padding-left: 1rem;
+      }
+    }
+  }
 }
 
-section {
-  width:620px;
-  > ul, > ol {
-    padding-left: 2rem;
-    ul, ol {
-      padding-left: 1rem;
-    }
+@media print, screen and (max-width: 960px) {
+  section > table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
   }
 }
