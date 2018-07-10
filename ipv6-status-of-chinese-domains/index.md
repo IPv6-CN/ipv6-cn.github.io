@@ -6,7 +6,7 @@
 ## 本测试结果不定期更新，按测试时间排序
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.tags.statusreport %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>

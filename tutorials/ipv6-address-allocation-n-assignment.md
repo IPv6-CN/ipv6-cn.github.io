@@ -2,6 +2,7 @@
 layout: post
 title: "IPv6 地址规划与分配——全球可路由地址"
 categories: [addressing]
+tags: tutorial
 ---
 
 ## 科学规划 IPv6 地址空间的意义：

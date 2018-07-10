@@ -3,6 +3,7 @@ layout: post
 title: "运营商 IPv6 地址规划设计（翻译资料）"
 categories: [other, addressing]
 author: "Ryan McCann —— Clearcable Connects 总裁"
+tags: reference
 ---
 原文链接：[TEAM ARIN blog: IPv6 Addressing Plan Design For Service Providers](https://teamarin.net/2018/07/05/ipv6-addressing-plan-design-for-service-providers/)
 

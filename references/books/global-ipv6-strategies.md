@@ -3,6 +3,7 @@ layout: post
 title: "全球IPv6策略——从业务分析到操作规划"
 categories: [book]
 date: 2018-05-24
+tags: reference
 ---
 编者按：此书出版于 2008 年，书中描述的很多情况已经不符合现实，但我们同时可以看到我们与国外在 IPv6 部署上的差距远不止十年。
 # 精彩摘录

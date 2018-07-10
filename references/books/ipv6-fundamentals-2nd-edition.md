@@ -3,6 +3,7 @@ layout: post
 title: "好书推荐——《IPv6 精要第二版》"
 categories: [book]
 date: 2018-06-03
+tags: reference
 ---
 [本书出版社链接](http://www.ciscopress.com/store/ipv6-fundamentals-a-straightforward-approach-to-understanding-9781587144776
 )，
